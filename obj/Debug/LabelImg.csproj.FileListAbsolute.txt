@@ -1,0 +1,11 @@
+E:\QMy-File2\QTools_CV\LabelImg\bin\Debug\LabelImg.exe.config
+E:\QMy-File2\QTools_CV\LabelImg\bin\Debug\LabelImg.exe
+E:\QMy-File2\QTools_CV\LabelImg\bin\Debug\LabelImg.pdb
+E:\QMy-File2\QTools_CV\LabelImg\obj\Debug\LabelImg.csproj.AssemblyReference.cache
+E:\QMy-File2\QTools_CV\LabelImg\obj\Debug\LabelImg.csproj.SuggestedBindingRedirects.cache
+E:\QMy-File2\QTools_CV\LabelImg\obj\Debug\LabelImg.Properties.Resources.resources
+E:\QMy-File2\QTools_CV\LabelImg\obj\Debug\LabelImg.csproj.GenerateResource.cache
+E:\QMy-File2\QTools_CV\LabelImg\obj\Debug\LabelImg.csproj.CoreCompileInputs.cache
+E:\QMy-File2\QTools_CV\LabelImg\obj\Debug\LabelImg.exe
+E:\QMy-File2\QTools_CV\LabelImg\obj\Debug\LabelImg.pdb
+E:\QMy-File2\QTools_CV\LabelImg\obj\Debug\LabelImg.Main.resources

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f7a17c46-ba7c-4e70-82f6-02a6d376f904": {
+      "ProjectGuid": "f7a17c46-ba7c-4e70-82f6-02a6d376f904",
+      "DisplayName": "LabelImg",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
